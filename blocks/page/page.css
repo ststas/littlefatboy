@@ -1,13 +1,13 @@
 .page {
   min-width: 320px;
-  font-family: '', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans', 'Noto Serif Traditional Chinese', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
-  /* background-color: #000000; */
+  background-color: #FFFFFF;
   display: grid;
   grid-template-areas:
   "header"

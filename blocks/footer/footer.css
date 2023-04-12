@@ -1,9 +1,10 @@
 .footer {
   grid-area: footer;
   display: flex;
-  /* flex-direction: row;
-  width: 282px;
-  margin: 48px auto 36px; */
+  flex-direction: row;
+  background-color: #FDF9F1;
+  /* width: 282px;
+  margin: 48px auto 36px; */ 
 }
 
 @media screen and (min-width: 768px) {
