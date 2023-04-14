@@ -13,6 +13,12 @@
 @import url(../blocks/header/__menu/_opened/header__menu_opened.css);
 @import url(../blocks/header/__menu-element/header__menu-element.css);
 @import url(../blocks/header/__menu-link/header__menu-link.css);
+@import url(../blocks/header/__cards/header__cards.css);
+@import url(../blocks/header/__card/header__card.css);
+@import url(../blocks/header/__card-image/header__card-image.css);
+@import url(../blocks/header/__card/_middle/header__card_middle.css);
+@import url(../blocks/header/__card/_z-index/header__card_z-index.css);
+@import url(../blocks/header/__card-title/header__card-title.css);
 
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);

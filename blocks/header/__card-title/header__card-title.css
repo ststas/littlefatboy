@@ -1,0 +1,13 @@
+.header__card-title {
+  min-height: 76px;
+  margin: 0;
+  background: #FFFFFF;
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 0.3984px;
+  color: #2A1804;
+  text-align: center;
+}

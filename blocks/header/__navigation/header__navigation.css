@@ -5,7 +5,7 @@
   align-items: start;
   min-height: 40px;
   background-color: #B3B0A3;
-  /* outline: 1px solid red; */
+  padding-left: 30px;
 }
 
 @media screen and (min-width: 475px) {

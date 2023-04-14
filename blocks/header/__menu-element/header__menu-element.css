@@ -12,7 +12,4 @@
   .header__menu-element {
     margin: 0 10px 0 0;
   }
-  .header__menu-element:first-child {
-    margin-left: 30px;
-  }
 }
