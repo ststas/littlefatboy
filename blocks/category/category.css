@@ -1,19 +1,11 @@
 .category {
 display: flex;
-flex-direction: row;
-overflow-x: scroll;
-overflow-y: hidden;
+flex-direction: column;
 width: 100%; 
-min-height: 150px;
 background-color #FFFFFF;;
 margin: 0 auto;
-
 box-sizing: border-box;
-border: 1px solid red;
-}
-
-.category::-webkit-scrollbar {
-  display: none;
+padding-left: 30px;
 }
 
 @media screen and (min-width: 1200px) {

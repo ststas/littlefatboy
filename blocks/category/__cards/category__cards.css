@@ -1,0 +1,12 @@
+.category__cards {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.category__cards::-webkit-scrollbar {
+  display: none;
+}
