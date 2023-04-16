@@ -1,16 +1,23 @@
 .category {
-  grid-area: category;
-  display: flex;
-  flex-direction: row;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  align-items: center;
-  background-color: blue; 
-  max-width: 1200px;
+display: flex;
+flex-direction: row;
+overflow-x: scroll;
+overflow-y: hidden;
+width: 100%; 
+min-height: 150px;
+background-color #FFFFFF;;
+margin: 0 auto;
 
-  min-height: 250px;
+box-sizing: border-box;
+border: 1px solid red;
 }
 
 .category::-webkit-scrollbar {
   display: none;
+}
+
+@media screen and (min-width: 1200px) {
+  .category {
+    max-width: 1200px;
+  }
 }
