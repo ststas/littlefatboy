@@ -11,6 +11,8 @@
   display: grid;
   grid-template-areas:
   "header"
+  "category"
   "footer";
   justify-content: center;
+  background-color: grey;
 }

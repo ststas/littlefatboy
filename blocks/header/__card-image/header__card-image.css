@@ -1,5 +1,6 @@
 .header__card-image {
-  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   object-fit: cover;
   overflow: hidden;
   filter:saturate(120%) brightness(110%);

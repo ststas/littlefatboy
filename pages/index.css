@@ -20,6 +20,10 @@
 @import url(../blocks/header/__card/_z-index/header__card_z-index.css);
 @import url(../blocks/header/__card-title/header__card-title.css);
 
+/*CATEGORY*/
+@import url(../blocks/category/category.css);
+@import url(../blocks/category/__card/category__card.css);
+
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

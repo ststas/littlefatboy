@@ -2,21 +2,19 @@
   grid-area: category;
   display: flex;
   flex-direction: row;
-  width: 100vw;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  justify-content: start;
-  align-items: center;
-  background-color: blue; 
-  -webkit-overflow-scrolling: touch;
-}
+  box-sizing: border-box;
+  background-color: black;
+  width: 100%;
+  min-height: 100px;
+  padding-left: 30px;
+} 
 
-.category::-webkit-scrollbar {
+/* .category::-webkit-scrollbar {
   display: none;
-}
+} */
 
 @media screen and (min-width: 1200px) {
   .category {
-    max-width: 1200px;
+    width: 1200px;
   }
 }

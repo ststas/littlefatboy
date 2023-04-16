@@ -2,14 +2,14 @@
   grid-area: footer;
   display: flex;
   flex-direction: row;
+  box-sizing: border-box;
   background-color: #FDF9F1;
-  max-width: 100%;
   padding-left: 30px;
-
+  /* width: 100%; */
 }
 
 @media screen and (min-width: 1200px) {
   .footer {
-    max-width: 1200px;
+    width: 1200px;
   }
 }
