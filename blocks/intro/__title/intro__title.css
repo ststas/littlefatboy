@@ -1,5 +1,5 @@
 .intro__title {
-  margin: 60px 0 60px 0;
+  margin: 60px 0 30px 0;
   padding: 0;
   width: 100%;
   font-family: 'Noto Sans';
@@ -14,7 +14,7 @@
 
 @media screen and (min-width: 475px) {
   .intro__title {
-    margin: 100px 0 60px 0;
+    margin: 100px 0 45px 0;
     width: calc(100% - 80px);
     font-size: 42px;
   }
@@ -30,7 +30,7 @@
 
 @media screen and (min-width: 1024px) {
   .intro__title {
-    margin: 200px 0 80px 0;
+    margin: 200px 0 60px 0;
     font-size: 72px;
   }
 }

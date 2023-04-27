@@ -1,8 +1,8 @@
-const headerMenuButtonElement = document.querySelector('.header__menu-button-container');
-const headerMenuElement = document.querySelector('.header__menu');
+const headerMenuButtonElement = document.querySelector('.navigation__menu-button-container');
+const headerMenuElement = document.querySelector('.navigation__menu');
 
 const openHeaderMenu = function() {
-  headerMenuElement.classList.toggle('header__menu_opened')
+  headerMenuElement.classList.toggle('navigation__menu_opened')
 }
 
 headerMenuButtonElement.addEventListener('click', openHeaderMenu)
