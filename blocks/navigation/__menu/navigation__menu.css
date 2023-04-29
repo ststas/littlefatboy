@@ -7,7 +7,7 @@
   list-style-type: none;
   padding: 10px 30px;
   background-color: #B3B0A3;
-  z-index: 2;
+  z-index: 5;
   visibility: hidden;
   opacity: 0;
   transition: visibility 0s linear, opacity 0.3s linear;

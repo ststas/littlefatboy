@@ -12,13 +12,13 @@
 
 @media screen and (min-width: 475px) {
   .this-week__title {
-    margin: 100px 0 0;
+    margin: 90px 0 0;
   }
 }
 
 @media screen and (min-width: 768px) {
   .this-week__title {
-    margin: 126px 0 0;
+    margin: 120px 0 0;
     font-size: 37px;
   }
 }
