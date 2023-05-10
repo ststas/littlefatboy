@@ -4,7 +4,7 @@ const headerMenuButtonContainerElement = navigationBlockElement.querySelector('.
 const headerMenuButtonElement = headerMenuButtonContainerElement.querySelector('.navigation__menu-button')
 const headerMenuOverlayElement = navigationBlockElement.querySelector('.navigation__menu-overlay');
 
-//menu open & close functions
+//open & close menu functions
 const openCloseHeaderMenu = function() {
   headerMenuElement.classList.toggle('navigation__menu_opened')
 }
@@ -14,7 +14,6 @@ const openCloseMenuOverlay = function() {
 const clickNavigationMenuButton = function() {
   headerMenuButtonElement.classList.toggle('navigation__menu-button_clicked')
 }
-
 //set event listeners
 headerMenuButtonContainerElement.addEventListener('click', function() {
   openCloseHeaderMenu();

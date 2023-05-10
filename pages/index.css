@@ -39,7 +39,9 @@
 @import url(../blocks/this-week/this-week.css);
 @import url(../blocks/this-week/__title/this-week__title.css);
 /*THIS WEEK CARDS*/
-@import url(../blocks/this-week/__cards/this-week__cards.css);
+@import url(../blocks/this-week/__cards-block-one/this-week__cards-block-one.css);
+@import url(../blocks/this-week/__cards-block-two/this-week__cards-block-two.css);
+
 @import url(../blocks/this-week/__card/this-week__card.css);
 @import url(../blocks/this-week/__card-image/this-week__card-image.css);
 @import url(../blocks/this-week/__card-title/this-week__card-title.css);
