@@ -78,4 +78,15 @@
 @import url(../blocks/category/__card-image/category__card-image.css);
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__form/footer__form.css);
+@import url(../blocks/footer/__form-field/footer__form-field.css);
+@import url(../blocks/footer/__form-input/footer__form-input.css);
+@import url(../blocks/footer/__form-error/footer__form-error.css);
+@import url(../blocks/footer/__form-submit-button/footer__form-submit-button.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright-socials/footer__copyright-socials.css);
+@import url(../blocks/footer/__socials/footer__socials.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__top/footer__top.css);
+@import url(../blocks/footer/__bottom/footer__bottom.css);

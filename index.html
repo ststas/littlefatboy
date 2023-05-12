@@ -330,9 +330,35 @@
       </section>
     </main>
     <footer class="footer">
-      <p class="footer__copyright">© 2023 Little Fat Boy</p>
+      <div class="footer__top">
+        <p class="footer__title">Fresh updates straight to your inbox</p>
+        <form name="footer-form" class="footer__form" novalidate>
+            <div class="footer__form-field">
+              <input type="email" id="footer-email" name="email" placeholder="Enter your e-mail" value="" class="footer__form-input" required>            
+              <span id="footer-email-error" class="footer__form-error">Fresh updates straight to your inboxFresh updates straight to your inboxFresh updates straight to your inbox</span>
+            </div>
+            <button type="submit" class="footer__form-submit-button">Subscribe</button> 
+        </form>
+      </div>
+      <div class="footer__bottom">
+        <div class="footer__copyright">
+          <p class="footer__copyright-socials">© 2023 Little Fat Boy</p>
+        </div>
+        <div class="footer__socials">
+          <a href="#" class="footer__link">
+            <p class="footer__copyright-socials">Instagram</p>
+          </a>
+          <a href="#" class="footer__link">
+            <p class="footer__copyright-socials">Youtube</p>
+          </a>
+          <a href="#" class="footer__link">
+            <p class="footer__copyright-socials">Email</p>
+          </a>
+        </div>
+      </div>
     </footer>
   </div>
   <script src="./pages/script.js"></script>
 </body>
 </html>    
+
