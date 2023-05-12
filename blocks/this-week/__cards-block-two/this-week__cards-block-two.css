@@ -30,7 +30,6 @@
 
 @media screen and (min-width: 1080px) {
   .this-week__cards-block-two {
-    grid-template-columns: repeat(3, 1fr);
     gap: 120px 90px;
   }
 }

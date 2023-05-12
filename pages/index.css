@@ -42,9 +42,16 @@
 @import url(../blocks/this-week/__cards-block-one/this-week__cards-block-one.css);
 @import url(../blocks/this-week/__cards-block-two/this-week__cards-block-two.css);
 @import url(../blocks/this-week/__cards-block-three/this-week__cards-block-three.css);
+@import url(../blocks/this-week/__cards-block-four/this-week__cards-block-four.css);
 
 @import url(../blocks/this-week/__card/this-week__card.css);
 @import url(../blocks/this-week/__card-horizontal.css/this-week__card-horizontal.css);
+@import url(../blocks/this-week/__card/_big/this-week__card_big.css);
+@import url(../blocks/this-week/__card/_mid/this-week__card_mid.css);
+@import url(../blocks/this-week/__container-card-big/this-week__container-card-big.css);
+@import url(../blocks/this-week/__container-card-mid/this-week__container-card-mid.css);
+@import url(../blocks/this-week/__container-card-bottom/this-week__container-card-bottom.css);
+
 @import url(../blocks/this-week/__card-image/this-week__card-image.css);
 @import url(../blocks/this-week/__card-image/_horizontal/this-week__card-image_horizontal.css);
 
