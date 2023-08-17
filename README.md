@@ -1,13 +1,13 @@
 # PROJECT LITTLE FAT BOY
 
 ## Description
- This project made with resposive website design.
+ This project was made using resposive website design based on Grid & Flex.
  
- The goal - to improve HTML & CSS skills  
+ The goal: to improve HTML & CSS skills  
 
-### https://ststas.github.io/projects/littlefatboy/index.html
+### https://ststas.github.io/projects/littlefatboy
 
 ## Plans for developing:  
-* To add back-end functionality(e-mail subscription).
+* To add backend functionality for e-mail subscription.
 
 ### Stanislav Zaitsev 
