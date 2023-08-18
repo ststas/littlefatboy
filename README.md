@@ -9,7 +9,8 @@
 ## My goal
  * to improve HTML & CSS skills using Grid and Flex.
 
-### https://ststas.github.io/projects/littlefatboy
+## Deployed
+ * https://ststas.github.io/projects/littlefatboy
 
 ## Plans for developing:  
 * to add backend functionality for e-mail subscription.
