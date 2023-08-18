@@ -13,9 +13,6 @@
 * to improve HTML & CSS skills using Grid and Flex.
 
 ## Plans for developing:  
-* to add backend functionality for e-mail subscription.
+* To add back-end functionality(e-mail subscription).
 
-## Deployed
-* https://ststas.github.io/projects/littlefatboy
-
-### Stanislav Zaitsev
+### Stanislav Zaitsev 
