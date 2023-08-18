@@ -23,7 +23,7 @@
 
 ### Stanislav Zaitsev 
 
-# ПРОЕКТ MESTO JAVASCRIPT
+# ПРОЕКТ LITTLE FAT BOY
 
 ## Описание и функциональность
 * Проект представляет главную страницу food-блога.
