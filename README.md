@@ -10,7 +10,7 @@
 * HTML, CSS, JavaScript. Built with Nested-BEM, Mobile-first and Adaptive-design principles.
 
 ## My goal
-* to improve HTML & CSS skills using Grid and Flex.
+* to improve HTML & CSS skills using Grid and Flex for adaptive-design.
 
 ## Plans for developing:  
 * To add backend functionality for email subscription.
